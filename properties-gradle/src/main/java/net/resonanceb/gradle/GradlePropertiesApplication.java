@@ -1,12 +1,12 @@
-package net.resonanceb.propertiesgradle;
+package net.resonanceb.gradle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PropertiesGradleApplication {
+public class GradlePropertiesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PropertiesGradleApplication.class, args);
+		SpringApplication.run(GradlePropertiesApplication.class, args);
 	}
 }

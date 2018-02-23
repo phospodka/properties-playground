@@ -1,12 +1,12 @@
-package net.resonanceb.propertiesmaven;
+package net.resonanceb.gradle;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * My properties class for the testing of properties
  */
-@ConfigurationProperties(prefix = "my")
-public class MavenProperties {
+@ConfigurationProperties(prefix = "gradle")
+public class GradleProperties {
 
     /**
      * My first favorite property

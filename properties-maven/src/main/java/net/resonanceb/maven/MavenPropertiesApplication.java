@@ -1,12 +1,12 @@
-package net.resonanceb.propertiesmaven;
+package net.resonanceb.maven;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PropertiesMavenApplication {
+public class MavenPropertiesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PropertiesMavenApplication.class, args);
+		SpringApplication.run(MavenPropertiesApplication.class, args);
 	}
 }

@@ -1,4 +1,4 @@
-package net.resonanceb.propertiesgradle;
+package net.resonanceb.gradle;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

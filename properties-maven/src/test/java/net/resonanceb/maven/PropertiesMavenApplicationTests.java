@@ -1,4 +1,4 @@
-package net.resonanceb.propertiesmaven;
+package net.resonanceb.maven;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
